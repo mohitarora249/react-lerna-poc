@@ -1,0 +1,3 @@
+[submodule "packages/react-components"]
+	path = packages/react-components
+	url = https://github.com/mohitarora249/react-components.git
